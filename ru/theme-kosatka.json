@@ -1,0 +1,18 @@
+{
+  "strings": {
+    "Accent colour": "Акцентный цвет",
+    "Accent colour of the dark scheme": "Акцентный цвет тёмной схемы",
+    "As on the visitor's device": "Как на устройстве посетителя",
+    "Colour scheme by default": "Цветовая схема по умолчанию",
+    "Dark": "Тёмная",
+    "Kosatka": "Kosatka",
+    "Light": "Светлая",
+    "Switch the colour scheme": "Сменить цветовую схему",
+    "The engine's theme - lists in rows of glass with covers (a pinned item leads as a large card), a reading column, a light and a dark scheme in an accent colour of the site's.": "Тема движка - списки строками из стеклянных карточек с обложками (закреплённый материал - крупной карточкой сверху), колонка для чтения, светлая и тёмная схемы в акцентном цвете сайта.",
+    "cards": "карточки",
+    "dark": "тёмная",
+    "light": "светлая",
+    "responsive": "адаптивная",
+    "two-columns": "две колонки"
+  }
+}

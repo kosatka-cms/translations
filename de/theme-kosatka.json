@@ -1,0 +1,18 @@
+{
+  "strings": {
+    "Accent colour": "Akzentfarbe",
+    "Accent colour of the dark scheme": "Akzentfarbe des dunklen Schemas",
+    "As on the visitor's device": "Wie auf dem Gerät des Besuchers",
+    "Colour scheme by default": "Standard-Farbschema",
+    "Dark": "Dunkel",
+    "Kosatka": "Kosatka",
+    "Light": "Hell",
+    "Switch the colour scheme": "Farbschema wechseln",
+    "The engine's theme - lists in rows of glass with covers (a pinned item leads as a large card), a reading column, a light and a dark scheme in an accent colour of the site's.": "Das Theme der Engine - Listen in Reihen aus Glas mit Titelbildern (ein angehefteter Eintrag steht als große Karte an der Spitze), eine Lesespalte, ein helles und ein dunkles Schema in der Akzentfarbe der Website.",
+    "cards": "Karten",
+    "dark": "dunkel",
+    "light": "hell",
+    "responsive": "responsiv",
+    "two-columns": "zweispaltig"
+  }
+}

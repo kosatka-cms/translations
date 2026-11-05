@@ -1,0 +1,55 @@
+{
+  "contexts": {
+    "decimal separator": {
+      ".": ","
+    }
+  },
+  "strings": {
+    "<a href=\":login\">Log in</a> to rate it.": "<a href=\":login\">Inicie sesión</a> para valorarlo.",
+    "@count star": [
+      "@count estrella",
+      "@count estrellas"
+    ],
+    "@count vote": [
+      "@count voto",
+      "@count votos"
+    ],
+    "A guest is told apart by their browser's session: one vote per content item from one session.": "Un invitado se distingue por la sesión de su navegador: un voto por contenido desde una sesión.",
+    "Can be changed": "Se puede cambiar",
+    "Can be taken back": "Se puede retirar",
+    "Choose a number of stars.": "Elija un número de estrellas.",
+    "Content of this type can be rated": "El contenido de este tipo se puede valorar",
+    "Guests can rate too": "Los invitados también pueden valorar",
+    "It can be changed later: each vote keeps its share of the scale (4 of 5 stars become 8 of 10).": "Se puede cambiar más tarde: cada voto conserva su proporción de la escala (4 de 5 estrellas pasan a ser 8 de 10).",
+    "No votes yet": "Aún no hay votos",
+    "Own vote": "Voto propio",
+    "Rate content": "Valorar contenido",
+    "Rate it": "Valorar",
+    "Rated content types": "Tipos de contenido valorados",
+    "Rating": "Valoración",
+    "Rating (weighted)": "Valoración (ponderada)",
+    "Rating: average": "Valoración: media",
+    "Rating: number of votes": "Valoración: número de votos",
+    "Ratings": "Valoraciones",
+    "Scale": "Escala",
+    "Star ratings of content: votes on content pages, the rating in Views - its sorts (the weighted rating for a top list), filters and field.": "Valoraciones con estrellas del contenido: votos en las páginas de contenido, la valoración en las vistas - sus ordenaciones (la valoración ponderada para una lista de los mejores), filtros y campo.",
+    "Star votes": "Votos de estrellas",
+    "Stars, average and number of votes": "Estrellas, media y número de votos",
+    "Switching it off keeps the votes. The scale and who can rate - in the <a href=\":url\">ratings settings</a>.": "Al desactivarlo se conservan los votos. La escala y quién puede valorar - en los <a href=\":url\">ajustes de valoraciones</a>.",
+    "Take back": "Retirar",
+    "The average only": "Solo la media",
+    "The content's rating": "La valoración del contenido",
+    "The number of votes only": "Solo el número de votos",
+    "The rating's sorts (the weighted rating for a top list), filters and field are in the View editor. On a content page the rating is the block \"The content's rating\".": "Las ordenaciones de la valoración (la valoración ponderada para una lista de los mejores), los filtros y el campo están en el editor de vistas. En una página de contenido, la valoración es el bloque \"La valoración del contenido\".",
+    "The same switch is in the form of each <a href=\":url\">content type</a>, section \"Ratings\". Switching a type off keeps its votes.": "El mismo interruptor está en el formulario de cada <a href=\":url\">tipo de contenido</a>, en la sección \"Valoraciones\". Al desactivar un tipo se conservan sus votos.",
+    "The scale is from 3 to 10 stars.": "La escala va de 3 a 10 estrellas.",
+    "Users with the permission \"Rate content\" - <a href=\":url\">role permissions</a>.": "Usuarios con el permiso \"Valorar contenido\" - <a href=\":url\">permisos de los roles</a>.",
+    "Votes for full weight": "Votos para el peso completo",
+    "What it shows": "Qué muestra",
+    "Who can rate": "Quién puede valorar",
+    "You may not rate content.": "No tiene permiso para valorar contenido.",
+    "Your vote": "Su voto",
+    "Your vote can't be changed.": "Su voto no se puede cambiar.",
+    "Your vote can't be taken back.": "Su voto no se puede retirar."
+  }
+}

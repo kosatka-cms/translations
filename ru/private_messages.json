@@ -1,0 +1,50 @@
+{
+  "contexts": {
+    "private messages": {
+      "Active": "Активные"
+    }
+  },
+  "strings": {
+    "A member of a conversation wrote a new message; a user may turn it off in their profile.": "Участник переписки написал новое сообщение; пользователь может отключить письмо в профиле.",
+    "A message goes to @count recipients at most.": "Сообщение можно отправить не более чем @count получателям.",
+    "A private message": "Личное сообщение",
+    "Apply": "Применить",
+    "Archive": "В архив",
+    "Archive conversation": "Архивировать переписку",
+    "Archived": "В архиве",
+    "Choose at least one recipient.": "Выберите хотя бы одного получателя.",
+    "Clear participant": "Сбросить участника",
+    "Conversations": "Переписки",
+    "Conversations between users: the Messages tab of the profile, the new message notification.": "Переписка между пользователями: вкладка \"Сообщения\" в профиле, уведомление о новом сообщении.",
+    "E-mail me about new private messages": "Сообщать по e-mail о новых личных сообщениях",
+    "Enter the message.": "Введите текст сообщения.",
+    "Enter the subject and the message.": "Укажите тему и текст сообщения.",
+    "Hello, [user:name]!\n\n[pm:sender] has sent you a private message at [site:name].\n\nSubject: [pm:subject]\n\nTo read the message and reply, follow the link:\n[pm:thread-url]\n\nIf you don't want to receive these notifications, turn them off in your profile:\n[user:edit-url]\n\n-- [site:name] team": "Здравствуйте, [user:name]!\n\nПользователь [pm:sender] отправил вам личное сообщение на сайте [site:name].\n\nТема: [pm:subject]\n\nЧтобы прочитать сообщение и ответить, перейдите по ссылке:\n[pm:thread-url]\n\nЕсли вы не хотите получать подобные уведомления, отключите их в своём профиле:\n[user:edit-url]\n\n-- Команда [site:name]",
+    "Message": "Сообщение",
+    "Message subject": "Тема сообщения",
+    "Message text...": "Текст сообщения...",
+    "New": "Новое",
+    "New message": "Новое сообщение",
+    "New private message from [pm:sender] - [site:name]": "Новое личное сообщение от [pm:sender] - [site:name]",
+    "New private message notification": "Уведомление о новом личном сообщении",
+    "No conversations": "Переписок нет",
+    "Participant": "Участник",
+    "Participants": "Участники",
+    "Participants:": "Участники:",
+    "Private messages": "Личные сообщения",
+    "Recipients": "Получатели",
+    "Reset filter": "Сбросить фильтр",
+    "Send private message": "Отправить личное сообщение",
+    "Start typing a name to search for a user (at least 3 characters). Add recipients one at a time.": "Начните вводить имя для поиска пользователя (минимум 3 символа). Добавляйте получателей по одному.",
+    "Start typing a name...": "Начните вводить имя...",
+    "The conversation was not found.": "Переписка не найдена.",
+    "The recipient was not found.": "Получатель не найден.",
+    "Unarchive": "Разархивировать",
+    "Write a message": "Написать сообщение",
+    "Write a message...": "Написать сообщение...",
+    "Write your first message": "Написать первое сообщение",
+    "You have no messages yet": "У вас пока нет сообщений",
+    "private messages: @count": "личных сообщений: @count",
+    "to the conversation's members": "участникам переписки"
+  }
+}

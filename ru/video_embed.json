@@ -1,0 +1,30 @@
+{
+  "strings": {
+    "A link to a video (YouTube, VK Video, Rutube, Vimeo) on its own line in a text shows as the video's player: a preview first, the player on a click. On for the text formats that tick it.": "Ссылка на видео (YouTube, VK Видео, Rutube, Vimeo) на отдельной строке текста показывается плеером: сначала превью, плеер - по нажатию. Работает в текстовых форматах, где это отмечено.",
+    "A link to a video of one of the services on the \"Video embeds\" page. The site shows the video in its place.": "Ссылка на видео одного из сервисов, включённых на странице \"Встраивание видео\". На сайте на её месте будет видео.",
+    "A link to a video on its own line shows as its player (Configuration → Video embeds). The editor gets the \"Video\" button.": "Ссылка на видео на отдельной строке показывается плеером (\"Конфигурация → Встраивание видео\"). В редакторе появляется кнопка \"Видео\".",
+    "A link to a video standing alone on its line in a text shows as the video's player - in the text formats with \"Video links as players\" ticked (<a href=\"/admin/config/text-formats\">Text formats</a>).": "Ссылка на видео, стоящая в тексте на отдельной строке, показывается плеером - в текстовых форматах, где отмечено \"Ссылки на видео - плеером\" (<a href=\"/admin/config/text-formats\">Текстовые форматы</a>).",
+    "A preview and a button until a click: the page loads faster, and the video service learns nothing about the visitor before it.": "До нажатия - превью и кнопка: страница грузится быстрее, а сервис видео до нажатия ничего не узнаёт о посетителе.",
+    "Add the video": "Вставить",
+    "Checking the link…": "Проверяем ссылку…",
+    "Insert a video": "Вставить видео",
+    "Insert a video by its link": "Вставить видео по ссылке",
+    "Link to the video": "Ссылка на видео",
+    "Loading": "Загрузка",
+    "Not a link to a video of the services on.": "Это не ссылка на видео включённых сервисов.",
+    "Not a video link the site shows: it will be shown as a link.": "Это не ссылка на видео, которое показывает сайт: она будет показана ссылкой.",
+    "Previews copied to the site": "Превью - копия на сайте",
+    "Services": "Сервисы",
+    "The link below shows as the video on the site.": "На сайте эта ссылка станет видео.",
+    "The player on a click": "Плеер - по нажатию",
+    "The site takes the preview and the title from the service once and keeps them (the \"Video preview\" image style). Off - the preview is the service's picture.": "Картинку превью и название сайт один раз берёт у сервиса и хранит у себя (стиль изображений \"Превью видео\"). Выключено - превью загружается с сервиса.",
+    "Video": "Видео",
+    "Video embeds": "Встраивание видео",
+    "Video links as players": "Ссылки на видео - плеером",
+    "Video preview": "Превью видео",
+    "Video: player": "Видео: плеер",
+    "Video: preview, player on a click": "Видео: превью, плеер по нажатию",
+    "Watch the video": "Смотреть видео",
+    "Watch the video: @title": "Смотреть видео: @title"
+  }
+}

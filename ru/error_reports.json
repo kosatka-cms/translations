@@ -1,0 +1,42 @@
+{
+  "contexts": {
+    "error reports": {
+      "New": "Новые"
+    }
+  },
+  "strings": {
+    "@count report": [
+      "@count сообщение",
+      "@count сообщения",
+      "@count сообщений"
+    ],
+    "A visitor reported a mistake in a page's text.": "Посетитель сообщил об ошибке в тексте страницы.",
+    "Back to the new ones": "Вернуть в новые",
+    "Could not mark the report fixed.": "Не удалось отметить сообщение исправленным.",
+    "Could not return the report to the new ones.": "Не удалось вернуть сообщение в новые.",
+    "Describe the error": "Опишите, в чём ошибка",
+    "Error report (Ctrl+Shift+E)": "Сообщение об ошибке (Ctrl+Shift+E)",
+    "Error report hint": "Подсказка \"Сообщить об ошибке\"",
+    "Error reports": "Сообщения об ошибках",
+    "Failed to send the message.": "Не удалось отправить сообщение.",
+    "Fixed": "Исправлено",
+    "Fixed @date": "Исправлено @date",
+    "Found an error in the text? Select it and press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>E</kbd>.": "Нашли ошибку в тексте? Выделите фрагмент и нажмите <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>E</kbd>.",
+    "Network error. Please try again later.": "Ошибка сети. Попробуйте позже.",
+    "New error report": "Новое сообщение об ошибке",
+    "New error report on the site [site:name]\n\nID: [report:id]\nDate: [report:date]\nAuthor: [report:author]\nPage: [report:page]\n\nSelected text:\n[report:text]\n\nComment:\n[report:comment]\n\nIP: [report:ip]\n\nList in the admin area: [report:admin-url]": "Новое сообщение об ошибке на сайте [site:name]\n\nНомер: [report:id]\nДата: [report:date]\nАвтор: [report:author]\nСтраница: [report:page]\n\nВыделенный текст:\n[report:text]\n\nКомментарий:\n[report:comment]\n\nIP: [report:ip]\n\nСписок в админке: [report:admin-url]",
+    "No new reports": "Новых сообщений нет",
+    "No reports yet": "Сообщений пока нет",
+    "Report an error": "Сообщить об ошибке",
+    "Select a text fragment on the page (at least 3 characters).": "Выделите фрагмент текста на странице (не менее 3 символов).",
+    "Selected text": "Выделенный текст",
+    "Selection": "Выделение",
+    "Thank you! Your report has been sent.": "Спасибо! Сообщение отправлено.",
+    "The selected text is too short.": "Выделенный текст слишком короткий.",
+    "Visitors report errors in the text: they select it and press Ctrl+Shift+E. Reports go to Content → Error reports, the new ones counted in the admin menu; the error report hint block.": "Посетители сообщают об ошибках в тексте: выделяют фрагмент и нажимают Ctrl+Shift+E. Сообщения приходят в \"Содержимое → Сообщения об ошибках\", новые считаются в меню админки; блок-подсказка \"Сообщить об ошибке\".",
+    "[[site:name]] Error report #[report:id]": "[[site:name]] Сообщение об ошибке №[report:id]",
+    "invalid page address": "некорректный адрес страницы",
+    "the comment is too long": "комментарий слишком длинный",
+    "the selected text is too short or too long": "выделенный текст слишком короткий или длинный"
+  }
+}

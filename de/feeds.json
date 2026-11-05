@@ -1,0 +1,48 @@
+{
+  "contexts": {
+    "feed": {
+      "Content type": "Inhaltstyp",
+      "Image style": "Bildstil",
+      "disabled": "deaktiviert",
+      "enabled": "aktiviert"
+    }
+  },
+  "strings": {
+    "- main text -": "- Haupttext -",
+    "- originals -": "- Originale -",
+    "0: format default (Dzen: 7, RSS: no limit).": "0: Standard des Formats (Dzen: 7, RSS: keine Begrenzung).",
+    "Add feed": "Feed hinzufügen",
+    "Category": "Kategorie",
+    "Channel": "Kanal",
+    "Channel title": "Kanaltitel",
+    "Comma-separated term IDs: content with any of them.": "Durch Kommas getrennte Begriffs-IDs: Inhalte mit einem beliebigen davon.",
+    "Configurable XML feeds of content at their own addresses (the site RSS at /rss.xml is not affected).": "Konfigurierbare XML-Feeds mit Inhalten unter eigenen Adressen (der RSS-Feed der Website unter /rss.xml bleibt davon unberührt).",
+    "Delete feed \"@label\"?": "Feed \"@label\" löschen?",
+    "Dzen (full text)": "Dzen (Volltext)",
+    "Dzen: full text in <code>content:encoded</code>, cover, category; images must be JPEG/GIF/PNG.": "Dzen: Volltext in <code>content:encoded</code>, Titelbild, Kategorie; Bilder müssen JPEG/GIF/PNG sein.",
+    "Enter the feed name.": "Geben Sie den Namen des Feeds ein.",
+    "Feed deleted.": "Feed gelöscht.",
+    "Feed enabled": "Feed aktiviert",
+    "Feed: @label": "Feed: @label",
+    "Feeds": "Feeds",
+    "For the cover and images in the text. Dzen needs a JPEG style.": "Für das Titelbild und die Bilder im Text. Dzen benötigt einen JPEG-Bildstil.",
+    "New feed": "Neuer Feed",
+    "No feeds yet.": "Noch keine Feeds.",
+    "Not older than, days": "Nicht älter als, Tage",
+    "Number of items": "Anzahl der Einträge",
+    "Only terms (IDs)": "Nur Begriffe (IDs)",
+    "Open feed": "Feed öffnen",
+    "Path": "Pfad",
+    "Published content of the selected types, not in moderation, newest first. For each type choose where to take the text, cover and category from.": "Veröffentlichte Inhalte der gewählten Typen, nicht in Moderation, neueste zuerst. Wählen Sie für jeden Typ, woher Text, Titelbild und Kategorie stammen.",
+    "Select at least one content type.": "Wählen Sie mindestens einen Inhaltstyp aus.",
+    "The feed could not be deleted.": "Der Feed konnte nicht gelöscht werden.",
+    "The path may contain Latin letters, digits, \"-\", \"_\", \".\", \"/\", for example <code>feeds/dzen.xml</code>.": "Der Pfad darf lateinische Buchstaben, Ziffern sowie \"-\", \"_\", \".\", \"/\" enthalten, zum Beispiel <code>feeds/dzen.xml</code>.",
+    "The selected field does not fit this content type.": "Das gewählte Feld passt nicht zu diesem Inhaltstyp.",
+    "This address is already used on the site: by the engine, content, a View page, a term page or another feed.": "Diese Adresse wird auf der Website bereits verwendet: von der Engine, von Inhalten, einer Ansichtsseite, einer Begriffsseite oder einem anderen Feed.",
+    "Types": "Typen",
+    "XML content feeds for aggregators: Dzen (full text), RSS readers. Each feed has its own path, set of content and field mapping.": "XML-Inhalts-Feeds für Aggregatoren: Dzen (Volltext), RSS-Reader. Jeder Feed hat einen eigenen Pfad, eigene Inhalte und eine eigene Feldzuordnung.",
+    "empty - all": "leer - alle",
+    "empty - site name": "leer - Website-Name",
+    "empty - site slogan": "leer - Website-Slogan"
+  }
+}

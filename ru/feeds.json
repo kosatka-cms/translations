@@ -1,0 +1,48 @@
+{
+  "contexts": {
+    "feed": {
+      "Content type": "Тип контента",
+      "Image style": "Стиль картинок",
+      "disabled": "выключена",
+      "enabled": "включена"
+    }
+  },
+  "strings": {
+    "- main text -": "- основной текст -",
+    "- originals -": "- оригиналы -",
+    "0: format default (Dzen: 7, RSS: no limit).": "0 - по умолчанию формата (Дзен - 7, RSS - без ограничения).",
+    "Add feed": "Добавить ленту",
+    "Category": "Рубрика",
+    "Channel": "Канал",
+    "Channel title": "Название канала",
+    "Comma-separated term IDs: content with any of them.": "ID терминов через запятую: материалы с любым из них.",
+    "Configurable XML feeds of content at their own addresses (the site RSS at /rss.xml is not affected).": "Настраиваемые XML-ленты материалов по своим адресам (RSS сайта на /rss.xml не затрагивается).",
+    "Delete feed \"@label\"?": "Удалить ленту \"@label\"?",
+    "Dzen (full text)": "Дзен (полный текст)",
+    "Dzen: full text in <code>content:encoded</code>, cover, category; images must be JPEG/GIF/PNG.": "Дзен: полный текст в <code>content:encoded</code>, обложка, рубрика; картинки должны быть JPEG/GIF/PNG.",
+    "Enter the feed name.": "Укажите название ленты.",
+    "Feed deleted.": "Лента удалена.",
+    "Feed enabled": "Лента включена",
+    "Feed: @label": "Лента: @label",
+    "Feeds": "Ленты",
+    "For the cover and images in the text. Dzen needs a JPEG style.": "Для обложки и картинок в тексте. Дзену нужен стиль в формате JPEG.",
+    "New feed": "Новая лента",
+    "No feeds yet.": "Лент пока нет.",
+    "Not older than, days": "Не старше, дней",
+    "Number of items": "Количество",
+    "Only terms (IDs)": "Только термины (ID)",
+    "Open feed": "Открыть ленту",
+    "Path": "Адрес",
+    "Published content of the selected types, not in moderation, newest first. For each type choose where to take the text, cover and category from.": "Опубликованные материалы выбранных типов, не на модерации, свежие сначала. Для каждого типа выберите, откуда брать текст, обложку и рубрику.",
+    "Select at least one content type.": "Выберите хотя бы один тип контента.",
+    "The feed could not be deleted.": "Не удалось удалить ленту.",
+    "The path may contain Latin letters, digits, \"-\", \"_\", \".\", \"/\", for example <code>feeds/dzen.xml</code>.": "Адрес - латиница, цифры, \"-\", \"_\", \".\", \"/\", например <code>feeds/dzen.xml</code>.",
+    "The selected field does not fit this content type.": "Выбранное поле не подходит этому типу контента.",
+    "This address is already used on the site: by the engine, content, a View page, a term page or another feed.": "Этот адрес на сайте уже занят: движком, материалом, страницей представления, страницей термина или другой лентой.",
+    "Types": "Типы",
+    "XML content feeds for aggregators: Dzen (full text), RSS readers. Each feed has its own path, set of content and field mapping.": "XML-ленты материалов для агрегаторов: Дзен (полный текст), RSS-читатели. У каждой ленты свой адрес, набор материалов и сопоставление полей.",
+    "empty - all": "пусто - все",
+    "empty - site name": "пусто - название сайта",
+    "empty - site slogan": "пусто - слоган сайта"
+  }
+}

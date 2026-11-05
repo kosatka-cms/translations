@@ -1,0 +1,41 @@
+{
+  "contexts": {
+    "error reports": {
+      "New": "Nuevos"
+    }
+  },
+  "strings": {
+    "@count report": [
+      "@count informe",
+      "@count informes"
+    ],
+    "A visitor reported a mistake in a page's text.": "Un visitante informó de un error en el texto de una página.",
+    "Back to the new ones": "Volver a los nuevos",
+    "Could not mark the report fixed.": "No se pudo marcar el informe como corregido.",
+    "Could not return the report to the new ones.": "No se pudo devolver el informe a los nuevos.",
+    "Describe the error": "Describa el error",
+    "Error report (Ctrl+Shift+E)": "Informe de error (Ctrl+Shift+E)",
+    "Error report hint": "Sugerencia del informe de errores",
+    "Error reports": "Informes de errores",
+    "Failed to send the message.": "No se pudo enviar el mensaje.",
+    "Fixed": "Corregido",
+    "Fixed @date": "Corregido el @date",
+    "Found an error in the text? Select it and press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>E</kbd>.": "¿Ha encontrado un error en el texto? Selecciónelo y pulse <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>E</kbd>.",
+    "Network error. Please try again later.": "Error de red. Inténtelo de nuevo más tarde.",
+    "New error report": "Nuevo informe de error",
+    "New error report on the site [site:name]\n\nID: [report:id]\nDate: [report:date]\nAuthor: [report:author]\nPage: [report:page]\n\nSelected text:\n[report:text]\n\nComment:\n[report:comment]\n\nIP: [report:ip]\n\nList in the admin area: [report:admin-url]": "Nuevo informe de error en el sitio [site:name]\n\nID: [report:id]\nFecha: [report:date]\nAutor: [report:author]\nPágina: [report:page]\n\nTexto seleccionado:\n[report:text]\n\nComentario:\n[report:comment]\n\nIP: [report:ip]\n\nLista en el área de administración: [report:admin-url]",
+    "No new reports": "No hay informes nuevos",
+    "No reports yet": "Aún no hay informes",
+    "Report an error": "Informar de un error",
+    "Select a text fragment on the page (at least 3 characters).": "Seleccione un fragmento de texto en la página (al menos 3 caracteres).",
+    "Selected text": "Texto seleccionado",
+    "Selection": "Selección",
+    "Thank you! Your report has been sent.": "¡Gracias! Su informe se ha enviado.",
+    "The selected text is too short.": "El texto seleccionado es demasiado corto.",
+    "Visitors report errors in the text: they select it and press Ctrl+Shift+E. Reports go to Content → Error reports, the new ones counted in the admin menu; the error report hint block.": "Los visitantes informan de errores en el texto: lo seleccionan y pulsan Ctrl+Shift+E. Los informes van a Contenido → Informes de errores, y los nuevos se cuentan en el menú de administración; además, el bloque de sugerencia del informe de errores.",
+    "[[site:name]] Error report #[report:id]": "[[site:name]] Informe de error #[report:id]",
+    "invalid page address": "dirección de página no válida",
+    "the comment is too long": "el comentario es demasiado largo",
+    "the selected text is too short or too long": "el texto seleccionado es demasiado corto o demasiado largo"
+  }
+}

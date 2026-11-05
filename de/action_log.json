@@ -1,0 +1,33 @@
+{
+  "contexts": {
+    "action log": {
+      "From": "Von",
+      "Show": "Anzeigen",
+      "To": "Bis"
+    }
+  },
+  "strings": {
+    "@count entry": [
+      "@count Eintrag",
+      "@count Einträge"
+    ],
+    "Action log": "Aktionsprotokoll",
+    "Action log entries": "Einträge des Aktionsprotokolls",
+    "Action log settings": "Einstellungen des Aktionsprotokolls",
+    "Forever": "Für immer",
+    "Helps to see where a hijacked account acted from. It's personal data: mention it in the privacy policy.": "Hilft zu erkennen, von wo aus ein gekapertes Konto gehandelt hat. Das sind personenbezogene Daten: Erwähnen Sie sie in der Datenschutzerklärung.",
+    "Keep entries": "Einträge aufbewahren",
+    "Keep the IP address": "IP-Adresse speichern",
+    "Name or ID": "Name oder ID",
+    "No entries.": "Keine Einträge.",
+    "Object": "Objekt",
+    "Older entries are deleted by a background job once an hour.": "Ältere Einträge werden einmal pro Stunde von einem Hintergrundjob gelöscht.",
+    "Recent actions": "Letzte Aktionen",
+    "Show all": "Alle anzeigen",
+    "The actions of one user.": "Die Aktionen eines Benutzers.",
+    "The actions on one object.": "Die Aktionen an einem Objekt.",
+    "View the action log": "Das Aktionsprotokoll ansehen",
+    "What to record": "Was aufgezeichnet wird",
+    "Who did what on the site: content deleted or unpublished, users blocked, roles' permissions and settings changed, sign-ins. Other modules add their own actions.": "Wer was auf der Website getan hat: gelöschte oder nicht veröffentlichte Inhalte, gesperrte Benutzer, geänderte Berechtigungen und Einstellungen von Rollen, Anmeldungen. Andere Module fügen eigene Aktionen hinzu."
+  }
+}

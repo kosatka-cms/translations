@@ -1,0 +1,48 @@
+{
+  "contexts": {
+    "feed": {
+      "Content type": "Tipo de contenido",
+      "Image style": "Estilo de imagen",
+      "disabled": "desactivado",
+      "enabled": "activado"
+    }
+  },
+  "strings": {
+    "- main text -": "- texto principal -",
+    "- originals -": "- originales -",
+    "0: format default (Dzen: 7, RSS: no limit).": "0: valor predeterminado del formato (Dzen: 7, RSS: sin límite).",
+    "Add feed": "Añadir feed",
+    "Category": "Categoría",
+    "Channel": "Canal",
+    "Channel title": "Título del canal",
+    "Comma-separated term IDs: content with any of them.": "ID de términos separados por comas: contenido con cualquiera de ellos.",
+    "Configurable XML feeds of content at their own addresses (the site RSS at /rss.xml is not affected).": "Feeds XML configurables del contenido en sus propias direcciones (el RSS del sitio en /rss.xml no se ve afectado).",
+    "Delete feed \"@label\"?": "¿Eliminar el feed \"@label\"?",
+    "Dzen (full text)": "Dzen (texto completo)",
+    "Dzen: full text in <code>content:encoded</code>, cover, category; images must be JPEG/GIF/PNG.": "Dzen: texto completo en <code>content:encoded</code>, imagen de portada, categoría; las imágenes deben ser JPEG/GIF/PNG.",
+    "Enter the feed name.": "Introduzca el nombre del feed.",
+    "Feed deleted.": "Feed eliminado.",
+    "Feed enabled": "Feed activado",
+    "Feed: @label": "Feed: @label",
+    "Feeds": "Feeds",
+    "For the cover and images in the text. Dzen needs a JPEG style.": "Para la imagen de portada y las imágenes del texto. Dzen necesita un estilo de imagen JPEG.",
+    "New feed": "Nuevo feed",
+    "No feeds yet.": "Aún no hay feeds.",
+    "Not older than, days": "No más antiguo de, días",
+    "Number of items": "Número de elementos",
+    "Only terms (IDs)": "Solo términos (ID)",
+    "Open feed": "Abrir feed",
+    "Path": "Ruta",
+    "Published content of the selected types, not in moderation, newest first. For each type choose where to take the text, cover and category from.": "Contenido publicado de los tipos seleccionados, que no esté en moderación, el más reciente primero. Para cada tipo, elija de dónde tomar el texto, la imagen de portada y la categoría.",
+    "Select at least one content type.": "Seleccione al menos un tipo de contenido.",
+    "The feed could not be deleted.": "No se pudo eliminar el feed.",
+    "The path may contain Latin letters, digits, \"-\", \"_\", \".\", \"/\", for example <code>feeds/dzen.xml</code>.": "La ruta puede contener letras latinas, dígitos y \"-\", \"_\", \".\", \"/\", por ejemplo <code>feeds/dzen.xml</code>.",
+    "The selected field does not fit this content type.": "El campo seleccionado no corresponde a este tipo de contenido.",
+    "This address is already used on the site: by the engine, content, a View page, a term page or another feed.": "Esta dirección ya se usa en el sitio: por el motor, por el contenido, por una página de vista, por una página de término o por otro feed.",
+    "Types": "Tipos",
+    "XML content feeds for aggregators: Dzen (full text), RSS readers. Each feed has its own path, set of content and field mapping.": "Feeds XML de contenido para agregadores: Dzen (texto completo), lectores RSS. Cada feed tiene su propia ruta, su propio conjunto de contenido y su propia asignación de campos.",
+    "empty - all": "vacío - todos",
+    "empty - site name": "vacío - nombre del sitio",
+    "empty - site slogan": "vacío - eslogan del sitio"
+  }
+}

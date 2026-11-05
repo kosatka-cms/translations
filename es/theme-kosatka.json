@@ -1,0 +1,18 @@
+{
+  "strings": {
+    "Accent colour": "Color de acento",
+    "Accent colour of the dark scheme": "Color de acento del esquema oscuro",
+    "As on the visitor's device": "Como en el dispositivo del visitante",
+    "Colour scheme by default": "Esquema de colores predeterminado",
+    "Dark": "Oscuro",
+    "Kosatka": "Kosatka",
+    "Light": "Claro",
+    "Switch the colour scheme": "Cambiar el esquema de colores",
+    "The engine's theme - lists in rows of glass with covers (a pinned item leads as a large card), a reading column, a light and a dark scheme in an accent colour of the site's.": "El tema del motor - listas en filas de cristal con portadas (un elemento fijado encabeza como una tarjeta grande), una columna de lectura, un esquema claro y uno oscuro en un color de acento del sitio.",
+    "cards": "tarjetas",
+    "dark": "oscuro",
+    "light": "claro",
+    "responsive": "adaptable",
+    "two-columns": "dos columnas"
+  }
+}

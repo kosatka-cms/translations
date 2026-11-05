@@ -1,0 +1,34 @@
+{
+  "contexts": {
+    "action log": {
+      "From": "С",
+      "Show": "Показать",
+      "To": "По"
+    }
+  },
+  "strings": {
+    "@count entry": [
+      "@count запись",
+      "@count записи",
+      "@count записей"
+    ],
+    "Action log": "Журнал действий",
+    "Action log entries": "Записи журнала действий",
+    "Action log settings": "Настройки журнала действий",
+    "Forever": "Всегда",
+    "Helps to see where a hijacked account acted from. It's personal data: mention it in the privacy policy.": "Помогает понять, откуда действовала взломанная учётная запись. Это персональные данные: упомяните их в политике конфиденциальности.",
+    "Keep entries": "Хранить записи",
+    "Keep the IP address": "Записывать IP-адрес",
+    "Name or ID": "Название или ID",
+    "No entries.": "Записей нет.",
+    "Object": "Объект",
+    "Older entries are deleted by a background job once an hour.": "Более старые записи удаляет фоновая задача раз в час.",
+    "Recent actions": "Последние действия",
+    "Show all": "Показать все",
+    "The actions of one user.": "Действия одного пользователя.",
+    "The actions on one object.": "Действия с одним объектом.",
+    "View the action log": "Просмотр журнала действий",
+    "What to record": "Что записывать",
+    "Who did what on the site: content deleted or unpublished, users blocked, roles' permissions and settings changed, sign-ins. Other modules add their own actions.": "Кто что сделал на сайте: удалил или снял с публикации материал, заблокировал пользователя, поменял права ролей и настройки, входил. Другие модули добавляют свои действия."
+  }
+}

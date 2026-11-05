@@ -1,0 +1,50 @@
+{
+  "contexts": {
+    "private messages": {
+      "Active": "Aktiv"
+    }
+  },
+  "strings": {
+    "A member of a conversation wrote a new message; a user may turn it off in their profile.": "Ein Teilnehmer einer Unterhaltung hat eine neue Nachricht geschrieben; ein Benutzer kann dies in seinem Profil ausschalten.",
+    "A message goes to @count recipients at most.": "Eine Nachricht geht an höchstens @count Empfänger.",
+    "A private message": "Eine private Nachricht",
+    "Apply": "Anwenden",
+    "Archive": "Archivieren",
+    "Archive conversation": "Unterhaltung archivieren",
+    "Archived": "Archiviert",
+    "Choose at least one recipient.": "Wählen Sie mindestens einen Empfänger aus.",
+    "Clear participant": "Teilnehmer entfernen",
+    "Conversations": "Unterhaltungen",
+    "Conversations between users: the Messages tab of the profile, the new message notification.": "Unterhaltungen zwischen Benutzern: der Tab Nachrichten des Profils, die Benachrichtigung über neue Nachrichten.",
+    "E-mail me about new private messages": "Per E-Mail über neue private Nachrichten benachrichtigen",
+    "Enter the message.": "Geben Sie die Nachricht ein.",
+    "Enter the subject and the message.": "Geben Sie den Betreff und die Nachricht ein.",
+    "Hello, [user:name]!\n\n[pm:sender] has sent you a private message at [site:name].\n\nSubject: [pm:subject]\n\nTo read the message and reply, follow the link:\n[pm:thread-url]\n\nIf you don't want to receive these notifications, turn them off in your profile:\n[user:edit-url]\n\n-- [site:name] team": "Hallo, [user:name]!\n\n[pm:sender] hat Ihnen auf [site:name] eine private Nachricht gesendet.\n\nBetreff: [pm:subject]\n\nUm die Nachricht zu lesen und zu antworten, folgen Sie dem Link:\n[pm:thread-url]\n\nWenn Sie diese Benachrichtigungen nicht erhalten möchten, schalten Sie sie in Ihrem Profil aus:\n[user:edit-url]\n\n-- Team von [site:name]",
+    "Message": "Nachricht",
+    "Message subject": "Betreff der Nachricht",
+    "Message text...": "Nachrichtentext...",
+    "New": "Neu",
+    "New message": "Neue Nachricht",
+    "New private message from [pm:sender] - [site:name]": "Neue private Nachricht von [pm:sender] - [site:name]",
+    "New private message notification": "Benachrichtigung über neue private Nachricht",
+    "No conversations": "Keine Unterhaltungen",
+    "Participant": "Teilnehmer",
+    "Participants": "Teilnehmer",
+    "Participants:": "Teilnehmer:",
+    "Private messages": "Private Nachrichten",
+    "Recipients": "Empfänger",
+    "Reset filter": "Filter zurücksetzen",
+    "Send private message": "Private Nachricht senden",
+    "Start typing a name to search for a user (at least 3 characters). Add recipients one at a time.": "Beginnen Sie, einen Namen einzugeben, um nach einem Benutzer zu suchen (mindestens 3 Zeichen). Fügen Sie Empfänger einzeln hinzu.",
+    "Start typing a name...": "Beginnen Sie, einen Namen einzugeben...",
+    "The conversation was not found.": "Die Unterhaltung wurde nicht gefunden.",
+    "The recipient was not found.": "Der Empfänger wurde nicht gefunden.",
+    "Unarchive": "Archivierung aufheben",
+    "Write a message": "Nachricht schreiben",
+    "Write a message...": "Nachricht schreiben...",
+    "Write your first message": "Schreiben Sie Ihre erste Nachricht",
+    "You have no messages yet": "Sie haben noch keine Nachrichten",
+    "private messages: @count": "private Nachrichten: @count",
+    "to the conversation's members": "an die Teilnehmer der Unterhaltung"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "contexts": {
+    "404 log": {
+      "New": "Nuevas",
+      "Show": "Mostrar"
+    }
+  },
+  "strings": {
+    "(on this site)": "(en este sitio)",
+    "404 log": "Registro de 404",
+    "404 log settings": "Ajustes del registro de 404",
+    "A background job checks once an hour; it also forgets the addresses a redirect answers now.": "Una tarea en segundo plano comprueba una vez por hora; también olvida las direcciones a las que ahora responde una redirección.",
+    "Add the redirect": "Añadir la redirección",
+    "Address patterns": "Patrones de direcciones",
+    "Addresses forgotten: @count": "Direcciones olvidadas: @count",
+    "Addresses not found": "Direcciones no encontradas",
+    "Came from": "Procedencia",
+    "Clear": "Vaciar",
+    "Clear the 404 log?": "¿Vaciar el registro de 404?",
+    "Clear the log": "Vaciar el registro",
+    "Clearing": "Vaciando",
+    "Count in the menu": "Contador en el menú",
+    "Enter where to redirect (not the address itself).": "Introduzca el destino de la redirección (no la propia dirección).",
+    "Forget an address not asked for in": "Olvidar una dirección que no se haya solicitado en",
+    "Forgets every address, the ignored ones too; the redirects and the settings stay.": "Olvida todas las direcciones, también las ignoradas; las redirecciones y los ajustes se conservan.",
+    "Ignore": "Ignorar",
+    "Ignored": "Ignoradas",
+    "Last": "Última",
+    "Log settings": "Ajustes del registro",
+    "No addresses.": "No hay direcciones.",
+    "Not found (404)": "No encontrado (404)",
+    "Not logged": "No registradas",
+    "One per line; * - any characters (e.g. /wp-* or *.php). What scanners ask for on any site is here from the start.": "Una por línea; * - cualquier carácter (p. ej. /wp-* o *.php). Lo que los escáneres piden en cualquier sitio está aquí desde el principio.",
+    "Redirect": "Redirección",
+    "Redirect added; the address left the log.": "Redirección añadida; la dirección salió del registro.",
+    "Requests": "Solicitudes",
+    "Restore": "Restaurar",
+    "Similar content:": "Contenido similar:",
+    "The address is back among the new ones.": "La dirección vuelve a estar entre las nuevas.",
+    "The address is ignored.": "La dirección se ignora.",
+    "The addresses visitors asked for and the site didn't find (404), with how many times and where from; a redirect from any of them in a click (Configuration → Redirects, the \"Not found\" tab).": "Las direcciones que los visitantes solicitaron y el sitio no encontró (404), con cuántas veces y desde dónde; una redirección desde cualquiera de ellas con un clic (Configuración → Redirecciones, pestaña \"No encontrado\").",
+    "The number of new addresses by the Redirects menu item.": "El número de direcciones nuevas junto al elemento de menú Redirecciones.",
+    "direct": "directo",
+    "first @date": "por primera vez @date"
+  }
+}

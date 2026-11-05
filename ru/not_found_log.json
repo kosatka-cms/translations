@@ -1,0 +1,46 @@
+{
+  "contexts": {
+    "404 log": {
+      "New": "Новые",
+      "Show": "Показать"
+    }
+  },
+  "strings": {
+    "(on this site)": "(на этом сайте)",
+    "404 log": "Журнал 404",
+    "404 log settings": "Настройки журнала 404",
+    "A background job checks once an hour; it also forgets the addresses a redirect answers now.": "Фоновая задача проверяет раз в час; заодно она забывает адреса, на которые теперь есть редирект.",
+    "Add the redirect": "Создать редирект",
+    "Address patterns": "Шаблоны адресов",
+    "Addresses forgotten: @count": "Забыто адресов: @count",
+    "Addresses not found": "Ненайденные адреса",
+    "Came from": "Откуда пришли",
+    "Clear": "Очистить",
+    "Clear the 404 log?": "Очистить журнал 404?",
+    "Clear the log": "Очистить журнал",
+    "Clearing": "Очистка",
+    "Count in the menu": "Счётчик в меню",
+    "Enter where to redirect (not the address itself).": "Укажите, куда перенаправить (не на тот же адрес).",
+    "Forget an address not asked for in": "Забывать адрес без обращений через",
+    "Forgets every address, the ignored ones too; the redirects and the settings stay.": "Забывает все адреса, и игнорируемые тоже; редиректы и настройки остаются.",
+    "Ignore": "Игнорировать",
+    "Ignored": "Игнорируемые",
+    "Last": "Последнее",
+    "Log settings": "Настройки журнала",
+    "No addresses.": "Адресов нет.",
+    "Not found (404)": "Не найдено (404)",
+    "Not logged": "Не записывать",
+    "One per line; * - any characters (e.g. /wp-* or *.php). What scanners ask for on any site is here from the start.": "По одному на строку; * - любые символы (напр. /wp-* или *.php). То, что сканеры ищут на любом сайте, здесь уже есть.",
+    "Redirect": "Перенаправить",
+    "Redirect added; the address left the log.": "Редирект добавлен, адрес убран из журнала.",
+    "Requests": "Обращений",
+    "Restore": "Вернуть",
+    "Similar content:": "Похожие материалы:",
+    "The address is back among the new ones.": "Адрес снова среди новых.",
+    "The address is ignored.": "Адрес игнорируется.",
+    "The addresses visitors asked for and the site didn't find (404), with how many times and where from; a redirect from any of them in a click (Configuration → Redirects, the \"Not found\" tab).": "Адреса, которые запрашивали посетители и которых на сайте нет (404): сколько раз и откуда пришли; редирект с любого из них в один клик (Конфигурация → Редиректы, вкладка \"Не найдено\").",
+    "The number of new addresses by the Redirects menu item.": "Число новых адресов у пункта меню \"Редиректы\".",
+    "direct": "напрямую",
+    "first @date": "впервые @date"
+  }
+}
