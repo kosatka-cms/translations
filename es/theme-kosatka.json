@@ -12,7 +12,6 @@
     "cards": "tarjetas",
     "dark": "oscuro",
     "light": "claro",
-    "responsive": "adaptable",
-    "two-columns": "dos columnas"
+    "responsive": "adaptable"
   }
 }
