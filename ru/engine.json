@@ -2337,6 +2337,7 @@
     "Set a password now": "Задать пароль сейчас",
     "Set as default": "Сделать основной",
     "Set in the server configuration (<code>public_base_url</code> / <code>PUBLIC_BASE_URL</code>), which overrides this field. To set it here, remove it from the configuration.": "Задан в конфигурации сервера (<code>public_base_url</code> / <code>PUBLIC_BASE_URL</code>) - он важнее этого поля. Чтобы задавать адрес здесь, уберите его из конфигурации.",
+    "Set in the server configuration (@variable).": "Задаётся в конфигурации сервера (@variable).",
     "Set in the server configuration (translations_catalog_url).": "Задаётся в конфигурации сервера (translations_catalog_url).",
     "Set once when the field is created; not changed here": "Задаётся один раз при создании поля, не меняется здесь",
     "Settings": "Настройки",

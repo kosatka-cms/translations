@@ -2259,6 +2259,7 @@
     "Set a password now": "Establecer una contraseña ahora",
     "Set as default": "Establecer como predeterminado",
     "Set in the server configuration (<code>public_base_url</code> / <code>PUBLIC_BASE_URL</code>), which overrides this field. To set it here, remove it from the configuration.": "Establecido en la configuración del servidor (<code>public_base_url</code> / <code>PUBLIC_BASE_URL</code>), que anula este campo. Para establecerlo aquí, elimínelo de la configuración.",
+    "Set in the server configuration (@variable).": "Establecido en la configuración del servidor (@variable).",
     "Set in the server configuration (translations_catalog_url).": "Establecido en la configuración del servidor (translations_catalog_url).",
     "Set once when the field is created; not changed here": "Se establece una vez al crear el campo; no se cambia aquí",
     "Settings": "Ajustes",
