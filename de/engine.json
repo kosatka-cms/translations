@@ -273,6 +273,7 @@
     "0 - disabled, all content is displayed in the selected style. Fields can be hidden from the compact list of the rest in the field's own settings (\"Fields\" → ✎).": "0 - deaktiviert, alle Inhalte werden im gewählten Stil angezeigt. Felder können in den eigenen Einstellungen des Feldes aus der kompakten Liste der übrigen ausgeblendet werden (\"Felder\" → ✎).",
     "0 - keep proportions (fit/resize mode only).": "0 - Proportionen beibehalten (nur im Modus Anpassen/Skalieren).",
     "0 - no trimming": "0 - kein Kürzen",
+    "0 - none. For example, the lead story in one block and the rest of the list in another, without repeating it.": "0 - keine. Zum Beispiel der Aufmacher in einem Block und der Rest der Liste in einem anderen, ohne ihn zu wiederholen.",
     "0 = unlimited. How many nesting levels to show from the initial one.": "0 = unbegrenzt. Wie viele Verschachtelungsebenen ab der ersten angezeigt werden.",
     "2FA is off": "2FA ist aus",
     "30 days": "30 Tage",
@@ -390,6 +391,10 @@
     "@count menu": [
       "@count Menü",
       "@count Menüs"
+    ],
+    "@count min read": [
+      "@count Min. Lesezeit",
+      "@count Min. Lesezeit"
     ],
     "@count month": [
       "@count Monat",
@@ -2092,6 +2097,7 @@
     "Quote (blockquote)": "Zitat (blockquote)",
     "Random": "Zufällig",
     "Read more": "Weiterlesen",
+    "Reading time": "Lesezeit",
     "Reason": "Grund",
     "Rebuild": "Neu aufbauen",
     "Rebuild addresses": "Adressen neu aufbauen",
@@ -2325,6 +2331,7 @@
     "Sitemap, RSS and canonical links are built from each request's host, and e-mails with links (registration, password reset, notifications) are not sent. Set the address in <a href=\":url\">Site information</a>.": "Sitemap, RSS und kanonische Links werden aus dem Host der jeweiligen Anfrage erzeugt, und E-Mails mit Links (Registrierung, Passwort-Zurücksetzen, Benachrichtigungen) werden nicht versendet. Legen Sie die Adresse unter <a href=\":url\">Website-Informationen</a> fest.",
     "Size": "Größe",
     "Size levels": "Größenstufen",
+    "Skip the first N items": "Die ersten N Einträge überspringen",
     "Slide": "Slide",
     "Slide link field": "Linkfeld des Slides",
     "Slides per view": "Slides pro Ansicht",

@@ -273,6 +273,7 @@
     "0 - disabled, all content is displayed in the selected style. Fields can be hidden from the compact list of the rest in the field's own settings (\"Fields\" → ✎).": "0 - desactivado, todo el contenido se muestra en el estilo seleccionado. Los campos se pueden ocultar de la lista compacta del resto en los ajustes propios del campo (\"Campos\" → ✎).",
     "0 - keep proportions (fit/resize mode only).": "0 - mantener las proporciones (solo en el modo de ajustar/redimensionar).",
     "0 - no trimming": "0 - sin recorte",
+    "0 - none. For example, the lead story in one block and the rest of the list in another, without repeating it.": "0 - ninguno. Por ejemplo, la noticia principal en un bloque y el resto de la lista en otro, sin repetirla.",
     "0 = unlimited. How many nesting levels to show from the initial one.": "0 = sin límite. Cuántos niveles de anidación se muestran a partir del inicial.",
     "2FA is off": "2FA desactivada",
     "30 days": "30 días",
@@ -390,6 +391,10 @@
     "@count menu": [
       "@count menú",
       "@count menús"
+    ],
+    "@count min read": [
+      "@count min de lectura",
+      "@count min de lectura"
     ],
     "@count month": [
       "@count mes",
@@ -2092,6 +2097,7 @@
     "Quote (blockquote)": "Cita (blockquote)",
     "Random": "Aleatorio",
     "Read more": "Leer más",
+    "Reading time": "Tiempo de lectura",
     "Reason": "Motivo",
     "Rebuild": "Reconstruir",
     "Rebuild addresses": "Reconstruir direcciones",
@@ -2325,6 +2331,7 @@
     "Sitemap, RSS and canonical links are built from each request's host, and e-mails with links (registration, password reset, notifications) are not sent. Set the address in <a href=\":url\">Site information</a>.": "El mapa del sitio, el RSS y los enlaces canónicos se construyen a partir del host de cada solicitud, y no se envían correos electrónicos con enlaces (registro, restablecimiento de contraseña, notificaciones). Establezca la dirección en <a href=\":url\">Información del sitio</a>.",
     "Size": "Tamaño",
     "Size levels": "Niveles de tamaño",
+    "Skip the first N items": "Omitir los primeros N elementos",
     "Slide": "Diapositiva",
     "Slide link field": "Campo de enlace de la diapositiva",
     "Slides per view": "Diapositivas por vista",

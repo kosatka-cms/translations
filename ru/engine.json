@@ -274,6 +274,7 @@
     "0 - disabled, all content is displayed in the selected style. Fields can be hidden from the compact list of the rest in the field's own settings (\"Fields\" → ✎).": "0 - выключено, все материалы отображаются выбранным способом. Поля можно скрыть из компактного списка остатка в настройках самого поля (\"Поля\" → ✎).",
     "0 - keep proportions (fit/resize mode only).": "0 - сохранять пропорции (только для режима fit/resize).",
     "0 - no trimming": "0 - без обрезания",
+    "0 - none. For example, the lead story in one block and the rest of the list in another, without repeating it.": "0 - не пропускать. Например, главный материал в одном блоке, а остальной список в другом - без повтора.",
     "0 = unlimited. How many nesting levels to show from the initial one.": "0 = неограниченно. Сколько уровней вложенности показывать от начального.",
     "2FA is off": "2FA не включён",
     "30 days": "30 дней",
@@ -416,6 +417,11 @@
       "@count меню",
       "@count меню",
       "@count меню"
+    ],
+    "@count min read": [
+      "@count мин чтения",
+      "@count мин чтения",
+      "@count мин чтения"
     ],
     "@count month": [
       "@count месяц",
@@ -2170,6 +2176,7 @@
     "Quote (blockquote)": "Цитата (blockquote)",
     "Random": "Случайно",
     "Read more": "Читать дальше",
+    "Reading time": "Время чтения",
     "Reason": "Причина",
     "Rebuild": "Перестройка",
     "Rebuild addresses": "Перестройка адресов",
@@ -2403,6 +2410,7 @@
     "Sitemap, RSS and canonical links are built from each request's host, and e-mails with links (registration, password reset, notifications) are not sent. Set the address in <a href=\":url\">Site information</a>.": "Карта сайта, RSS и канонические ссылки строятся по адресу каждого запроса, а письма со ссылками (регистрация, сброс пароля, уведомления) не отправляются. Задайте адрес в <a href=\":url\">Сведениях о сайте</a>.",
     "Size": "Размер",
     "Size levels": "Ступеней размера",
+    "Skip the first N items": "Пропустить первые N материалов",
     "Slide": "Слайд",
     "Slide link field": "Поле-ссылка слайда",
     "Slides per view": "Слайдов на экране",
