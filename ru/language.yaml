@@ -1,4 +1,4 @@
 # Russian: complete (the CI fails a change that leaves a string of the
 # engine untranslated), reviewed - not a draft.
-version: 0.1.1
+version: 0.1.3
 draft: false
