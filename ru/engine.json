@@ -66,6 +66,16 @@
       "Tuesday": "вторник",
       "Wednesday": "среда"
     },
+    "a password": {
+      "changed": "изменён"
+    },
+    "a picture": {
+      "deleted": "удалено",
+      "uploaded": "загружено"
+    },
+    "a signature": {
+      "changed": "изменена"
+    },
     "admin": {
       "Active": "Активен",
       "Email": "Email"
@@ -658,6 +668,7 @@
     "Access to \"@tab\" is restricted": "Доступ к разделу \"@tab\" ограничен",
     "Account": "Аккаунт",
     "Account activation": "Активация учётной записи",
+    "Account changed": "Учётная запись изменена",
     "Account details for [user:name] at [site:name] (approved)": "Детали учётной записи [user:name] на сайте [site:name] (одобрена)",
     "Account details for [user:name] at [site:name] (pending admin approval)": "Заявка на регистрацию: [user:name] - [site:name]",
     "Account settings": "Настройки учётной записи",
@@ -2107,6 +2118,7 @@
     ],
     "Password recovery": "Восстановление пароля",
     "Password reset": "Восстановление пароля",
+    "Password reset by e-mail": "Пароль сброшен по e-mail",
     "Password reset for [user:name] at [site:name]": "Восстановление пароля [user:name] на сайте [site:name]",
     "Passwords do not match": "Пароли не совпадают",
     "Path (empty - vocabulary prefix + name)": "Адрес (пусто - префикс словаря + название)",
@@ -2137,6 +2149,8 @@
     "Port": "Порт",
     "Posted": "Отправлен",
     "Preview": "Превью",
+    "Preview - not saved.": "Предпросмотр - не сохранено.",
+    "Preview before saving": "Предпросмотр перед сохранением",
     "Preview error: @error": "Ошибка превью: @error",
     "Preview window": "Предпросмотр",
     "Preview: @name": "Предпросмотр: @name",
@@ -2284,6 +2298,7 @@
     "Saved.": "Сохранено.",
     "Saved. Every visitor will be asked again.": "Сохранено. Всех посетителей спросят заново.",
     "Saving and settings": "Сохранение и настройки",
+    "Saving would be refused:": "Сохранить не получится:",
     "Scan the QR code in the app": "Отсканируйте QR-код в приложении",
     "Scheduled: @publish to publish, @unpublish to unpublish; the nearest in @in.": "По расписанию: публикаций - @publish, снятий - @unpublish; ближайшее через @in.",
     "Schema.org type": "Тип schema.org",
@@ -2565,6 +2580,7 @@
     "The comment you reply to isn't this content's.": "Комментарий, на который вы отвечаете, относится к другому материалу.",
     "The content could not be deleted.": "Не удалось удалить материал.",
     "The content could not be restored.": "Не удалось восстановить материал.",
+    "The content form's Preview opens the item's page as it will look once saved, in a new tab.": "Кнопка \"Предпросмотр\" в форме материала открывает его страницу такой, какой она будет после сохранения, в новой вкладке.",
     "The content goes to the trash: it is gone from the site, and can be restored from the trash.": "Материал попадёт в корзину: с сайта он пропадёт, но его можно будет восстановить из корзины.",
     "The content is published at this time (and leaves moderation); until then it is unpublished.": "Материал станет опубликованным в это время (и снимется с модерации); до тех пор он не опубликован.",
     "The content item": "Сам материал",
@@ -2608,6 +2624,7 @@
     "The file is too large: the maximum is @size MB.": "Файл слишком большой: максимум @size МБ.",
     "The file is used in @count places; links there will stop working:": "Файл используется в местах: @count; ссылки там перестанут работать:",
     "The file or folder was not found.": "Файл или папка не найдены.",
+    "The files chosen in the form show once it is saved.": "Файлы, выбранные в форме, появятся после сохранения.",
     "The first": "Первое",
     "The first @count changes are shown.": "Показаны первые @count изменений.",
     "The first matching rule from the top applies - drag a row by ☰ to change the order.": "Действует первое подходящее правило сверху - порядок меняется перетаскиванием строки за ☰.",
@@ -2668,6 +2685,7 @@
     "The older ones beyond it are deleted on the next save. Empty - all.": "Старые сверх этого числа удаляются при следующем сохранении. Пусто - все.",
     "The operation failed. Try again.": "Не удалось выполнить действие. Попробуйте снова.",
     "The order in the create/edit form and group membership (form/detail page) are on the \"Fields\" tab; display on the detail page is on the \"Display: detail page\" tab. Lists are built by Views.": "Порядок в форме создания/редактирования и принадлежность к группе (форма/детальная) - на вкладке \"Поля\"; отображение на детальной - на вкладке \"Отображение: на детальной\". Списки строят представления.",
+    "The page as it will look once the form is saved. The form stays in its tab.": "Страница такой, какой она будет после сохранения формы. Форма осталась в своей вкладке.",
     "The parameter name: lowercase latin letters, digits and _, starting with a letter; not page, letter or sort.": "Имя параметра - строчные латинские буквы, цифры и _, начинается с буквы; не page, letter и не sort.",
     "The parent must be a term of the same vocabulary.": "Родителем может быть только термин того же словаря.",
     "The password is changed. Log in with the new one.": "Пароль изменён. Войдите с новым паролем.",

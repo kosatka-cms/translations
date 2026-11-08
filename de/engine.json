@@ -66,6 +66,16 @@
       "Tuesday": "Dienstag",
       "Wednesday": "Mittwoch"
     },
+    "a password": {
+      "changed": "geändert"
+    },
+    "a picture": {
+      "deleted": "gelöscht",
+      "uploaded": "hochgeladen"
+    },
+    "a signature": {
+      "changed": "geändert"
+    },
     "admin": {
       "Active": "Aktiv",
       "Email": "E-Mail"
@@ -605,6 +615,7 @@
     "Access to \"@tab\" is restricted": "Der Zugriff auf \"@tab\" ist eingeschränkt",
     "Account": "Konto",
     "Account activation": "Kontoaktivierung",
+    "Account changed": "Konto geändert",
     "Account details for [user:name] at [site:name] (approved)": "Kontodaten für [user:name] bei [site:name] (freigegeben)",
     "Account details for [user:name] at [site:name] (pending admin approval)": "Kontodaten für [user:name] bei [site:name] (wartet auf Freigabe durch einen Administrator)",
     "Account settings": "Kontoeinstellungen",
@@ -2028,6 +2039,7 @@
     ],
     "Password recovery": "Passwort-Wiederherstellung",
     "Password reset": "Passwort zurücksetzen",
+    "Password reset by e-mail": "Passwort per E-Mail zurückgesetzt",
     "Password reset for [user:name] at [site:name]": "Passwort-Zurücksetzung für [user:name] auf [site:name]",
     "Passwords do not match": "Die Passwörter stimmen nicht überein",
     "Path (empty - vocabulary prefix + name)": "Pfad (leer - Präfix des Vokabulars + Name)",
@@ -2058,6 +2070,8 @@
     "Port": "Port",
     "Posted": "Gepostet",
     "Preview": "Vorschau",
+    "Preview - not saved.": "Vorschau - nicht gespeichert.",
+    "Preview before saving": "Vorschau vor dem Speichern",
     "Preview error: @error": "Vorschaufehler: @error",
     "Preview window": "Vorschaufenster",
     "Preview: @name": "Vorschau: @name",
@@ -2205,6 +2219,7 @@
     "Saved.": "Gespeichert.",
     "Saved. Every visitor will be asked again.": "Gespeichert. Jeder Besucher wird erneut gefragt.",
     "Saving and settings": "Speichern und Einstellungen",
+    "Saving would be refused:": "Das Speichern würde abgelehnt:",
     "Scan the QR code in the app": "Scannen Sie den QR-Code in der App",
     "Scheduled: @publish to publish, @unpublish to unpublish; the nearest in @in.": "Geplant: @publish zur Veröffentlichung, @unpublish zur Aufhebung der Veröffentlichung; die nächste in @in.",
     "Schema.org type": "Schema.org-Typ",
@@ -2484,6 +2499,7 @@
     "The comment you reply to isn't this content's.": "Der Kommentar, auf den Sie antworten, gehört nicht zu diesem Inhalt.",
     "The content could not be deleted.": "Der Inhalt konnte nicht gelöscht werden.",
     "The content could not be restored.": "Der Inhalt konnte nicht wiederhergestellt werden.",
+    "The content form's Preview opens the item's page as it will look once saved, in a new tab.": "Die Vorschau im Inhaltsformular öffnet die Seite des Inhalts so, wie sie nach dem Speichern aussieht, in einem neuen Tab.",
     "The content goes to the trash: it is gone from the site, and can be restored from the trash.": "Der Inhalt kommt in den Papierkorb: Er verschwindet von der Website und kann aus dem Papierkorb wiederhergestellt werden.",
     "The content is published at this time (and leaves moderation); until then it is unpublished.": "Der Inhalt wird zu dieser Zeit veröffentlicht (und verlässt die Moderation); bis dahin ist er nicht veröffentlicht.",
     "The content item": "Der Inhalt",
@@ -2525,6 +2541,7 @@
     "The file is too large: the maximum is @size MB.": "Die Datei ist zu groß: Das Maximum beträgt @size MB.",
     "The file is used in @count places; links there will stop working:": "Die Datei wird an @count Stellen verwendet; Links dort funktionieren dann nicht mehr:",
     "The file or folder was not found.": "Die Datei oder der Ordner wurde nicht gefunden.",
+    "The files chosen in the form show once it is saved.": "Die im Formular gewählten Dateien erscheinen nach dem Speichern.",
     "The first": "Die ersten",
     "The first @count changes are shown.": "Die ersten @count Änderungen werden angezeigt.",
     "The first matching rule from the top applies - drag a row by ☰ to change the order.": "Es gilt die erste passende Regel von oben - ziehen Sie eine Zeile an ☰, um die Reihenfolge zu ändern.",
@@ -2584,6 +2601,7 @@
     "The older ones beyond it are deleted on the next save. Empty - all.": "Die älteren darüber hinaus werden beim nächsten Speichern gelöscht. Leer - alle.",
     "The operation failed. Try again.": "Der Vorgang ist fehlgeschlagen. Versuchen Sie es erneut.",
     "The order in the create/edit form and group membership (form/detail page) are on the \"Fields\" tab; display on the detail page is on the \"Display: detail page\" tab. Lists are built by Views.": "Die Reihenfolge im Formular zum Erstellen/Bearbeiten und die Gruppenzugehörigkeit (Formular/Detailseite) finden Sie auf dem Tab \"Felder\"; die Anzeige auf der Detailseite auf dem Tab \"Anzeige: Detailseite\". Listen werden von Ansichten erstellt.",
+    "The page as it will look once the form is saved. The form stays in its tab.": "Die Seite, wie sie nach dem Speichern des Formulars aussieht. Das Formular bleibt in seinem Tab.",
     "The parameter name: lowercase latin letters, digits and _, starting with a letter; not page, letter or sort.": "Der Parametername: lateinische Kleinbuchstaben, Ziffern und _, beginnend mit einem Buchstaben; nicht page, letter oder sort.",
     "The parent must be a term of the same vocabulary.": "Das übergeordnete Element muss ein Begriff desselben Vokabulars sein.",
     "The password is changed. Log in with the new one.": "Das Passwort wurde geändert. Melden Sie sich mit dem neuen an.",
