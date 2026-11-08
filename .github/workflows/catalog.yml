@@ -1,5 +1,7 @@
 # The translations catalog: every pull request and push checks the
-# strings against the engine's (main's), Russian complete; main is built
+# strings against the engine's (main's) - a broken one fails it, a string
+# Russian hasn't translated yet is a warning (the site shows it in
+# English until then); main is built
 # into index.json and a <code>.json per language and published to GitHub
 # Pages (Settings → Pages → Source: GitHub Actions). Built daily too: a
 # string the engine dropped leaves the catalog.
@@ -28,7 +30,23 @@ jobs:
       - uses: actions/setup-go@v7
         with:
           go-version: stable
-      - run: go run "$APP" translations index -src . -out "$RUNNER_TEMP/check" -complete ru
+      # The strings themselves: a broken catalog, a placeholder lost, HTML
+      # the English hasn't - an error.
+      - run: go run "$APP" translations index -src . -out "$RUNNER_TEMP/check"
+      # Russian complete: what it lacks is a warning, listed on the run's
+      # summary - the engine's new strings wait for their translation
+      # without failing the check.
+      - name: Russian untranslated
+        run: |
+          if go run "$APP" translations index -src . -out "$RUNNER_TEMP/complete" -complete ru 2> missing.txt; then
+            exit 0
+          fi
+          head -1 missing.txt | sed 's/^translations index: //; s/^/::warning title=Russian incomplete::/'
+          {
+            echo "### Russian: not translated yet"
+            echo
+            tail -n +2 missing.txt | sed 's/^ *//; s/^/- /'
+          } >> "$GITHUB_STEP_SUMMARY"
 
   build:
     if: github.event_name != 'pull_request'

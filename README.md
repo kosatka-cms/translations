@@ -64,7 +64,9 @@ under `contexts`:
 ## Checking and building
 
 The CI checks every pull request: each string against the code's
-strings, Russian complete. It builds the catalog from `main` and
+strings - a broken one fails it; a string Russian doesn't translate yet
+is a warning, listed on the run's summary (a site shows it in English
+until it is translated). It builds the catalog from `main` and
 publishes it. Locally, with the engine's binary:
 
 ```bash
