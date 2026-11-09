@@ -639,6 +639,7 @@
     "Add field": "Añadir campo",
     "Add field set": "Añadir conjunto de campos",
     "Add field to \"@label\"": "Añadir campo a \"@label\"",
+    "Add files": "Añadir archivos",
     "Add filter": "Añadir filtro",
     "Add format": "Añadir formato",
     "Add images": "Añadir imágenes",
@@ -780,6 +781,10 @@
     "At most @count date.": [
       "Como máximo @count fecha.",
       "Como máximo @count fechas."
+    ],
+    "At most @count file.": [
+      "Como máximo @count archivo.",
+      "Como máximo @count archivos."
     ],
     "At most @count image.": [
       "Como máximo @count imagen.",
@@ -1177,7 +1182,6 @@
     "Delete format @label": "Eliminar el formato @label",
     "Delete its terms first, then delete the empty vocabulary.": "Elimine primero sus términos y luego el vocabulario vacío.",
     "Delete link \"@title\"?": "¿Eliminar el enlace \"@title\"?",
-    "Delete logo (the block will no longer be displayed)": "Eliminar el logotipo (el bloque dejará de mostrarse)",
     "Delete menu \"@menu\"?": "¿Eliminar el menú \"@menu\"?",
     "Delete menu \"@name\"": "Eliminar el menú \"@name\"",
     "Delete menu @name - Admin panel": "Eliminar menú @name - Panel de administración",
@@ -1199,6 +1203,7 @@
     "Delete the content": "Eliminar el contenido",
     "Delete the entire view \"@label\"?": "¿Eliminar toda la vista \"@label\"?",
     "Delete the icon (the theme's will be shown)": "Eliminar el icono (se mostrará el del tema)",
+    "Delete the logo (the theme's will be shown, if it has one)": "Eliminar el logotipo (se mostrará el del tema, si lo tiene)",
     "Delete the module's content first.": "Elimine primero el contenido del módulo.",
     "Delete the pattern?": "¿Eliminar el patrón?",
     "Delete the redirect?": "¿Eliminar la redirección?",
@@ -1800,6 +1805,7 @@
     "More details: <code>@file</code>.": "Más detalles: <code>@file</code>.",
     "Most blocks": "Máximo de bloques",
     "Most dates": "Máximo de fechas",
+    "Most files": "Máximo de archivos",
     "Most images": "Máximo de imágenes",
     "Most links": "Máximo de enlaces",
     "Most people": "Máximo de usuarios",
@@ -2312,7 +2318,7 @@
     "Showing the first @shown.": "Se muestran los primeros @shown.",
     "Shown": "Mostrado",
     "Shown after the date when the value has a time.": "Se muestra después de la fecha cuando el valor tiene hora.",
-    "Shown by the \"Logo\" block in the site header (<a href=\":url\">Blocks and regions</a>). If no logo is set, the block is not displayed.": "Lo muestra el bloque \"Logo\" en la cabecera del sitio (<a href=\":url\">Bloques y regiones</a>). Si no se ha definido un logo, el bloque no se muestra.",
+    "Shown in the site header by the theme or by the \"Logo\" block (<a href=\":url\">Blocks and regions</a>), the same in every theme. Without one, the active theme's logo is shown, if it has one.": "Lo muestra en la cabecera del sitio el tema o el bloque \"Logo\" (<a href=\":url\">Bloques y regiones</a>), el mismo en todos los temas. Sin uno propio se muestra el logotipo del tema activo, si lo tiene.",
     "Shown on the card/detail page if the node has no value of its own for this field.": "Se muestra en la tarjeta/página de detalle si el contenido no tiene un valor propio para este campo.",
     "Shown to a visitor until they choose; a menu link to <code>#cookie-settings</code> opens it again.": "Se muestra a un visitante hasta que elige; un enlace de menú a <code>#cookie-settings</code> lo abre de nuevo.",
     "Shows": "Muestra",
@@ -2477,6 +2483,7 @@
     "The account is awaiting administrator approval": "La cuenta está pendiente de aprobación por un administrador",
     "The accounts and everything these users created will be permanently deleted: content of all types (with its comments and everything attached to it), their comments, private messages, uploaded files and avatars. Site settings (content types, Views, vocabularies) are not affected.": "Las cuentas y todo lo que estos usuarios crearon se eliminarán de forma permanente: contenido de todos los tipos (con sus comentarios y todo lo asociado), sus comentarios, mensajes privados, archivos subidos y avatares. Los ajustes del sitio (tipos de contenido, vistas, vocabularios) no se ven afectados.",
     "The action could not be completed.": "No se pudo completar la acción.",
+    "The active theme's logo; one uploaded here replaces it.": "El logotipo del tema activo; uno subido aquí lo sustituye.",
     "The address is made by a script in the browser; without it - \"info [at] example.com\".": "La dirección la genera un script en el navegador; sin él - \"info [at] example.com\".",
     "The address must be allowed by the sending service (an address the SMTP server accepts, or a domain the service has verified).": "La dirección debe estar permitida por el servicio de envío (una dirección que acepte el servidor SMTP o un dominio verificado por el servicio).",
     "The address of each type's content generated automatically. Empty - @default.": "La dirección del contenido de cada tipo, generada automáticamente. Vacío - @default.",
@@ -2617,7 +2624,7 @@
     "The preview takes a POST request.": "La vista previa requiere una solicitud POST.",
     "The privacy policy: a path on the site or an address. Empty - no link.": "La política de privacidad: una ruta del sitio o una dirección. Vacío - sin enlace.",
     "The published content viewed most, the most viewed first.": "El contenido publicado más visto, empezando por el más visto.",
-    "The publisher of the articles' markup and the site's card in the results (the front page's JSON-LD). The logo above is its logo.": "El editor en el marcado de los artículos y la tarjeta del sitio en los resultados de búsqueda (el JSON-LD de la portada). El logotipo de arriba es su logotipo.",
+    "The publisher of the articles' markup and the site's card in the results (the front page's JSON-LD). The logo uploaded above is its logo (not a theme's).": "El editor en el marcado de los artículos y la tarjeta del sitio en los resultados de búsqueda (el JSON-LD de la portada). Su logotipo es el subido arriba (no el de un tema).",
     "The rebuild stopped on an error; the addresses changed so far keep their redirects. Continue, or see the log.": "La reconstrucción se detuvo por un error; las direcciones cambiadas hasta ahora conservan sus redirecciones. Continúe o consulte el registro.",
     "The request could not be read.": "No se pudo leer la solicitud.",
     "The request is too large": "La solicitud es demasiado grande",

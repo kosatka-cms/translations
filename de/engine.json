@@ -639,6 +639,7 @@
     "Add field": "Feld hinzufügen",
     "Add field set": "Feldsatz hinzufügen",
     "Add field to \"@label\"": "Feld zu \"@label\" hinzufügen",
+    "Add files": "Dateien hinzufügen",
     "Add filter": "Filter hinzufügen",
     "Add format": "Format hinzufügen",
     "Add images": "Bilder hinzufügen",
@@ -780,6 +781,10 @@
     "At most @count date.": [
       "Höchstens @count Datum.",
       "Höchstens @count Daten."
+    ],
+    "At most @count file.": [
+      "Höchstens @count Datei.",
+      "Höchstens @count Dateien."
     ],
     "At most @count image.": [
       "Höchstens @count Bild.",
@@ -1177,7 +1182,6 @@
     "Delete format @label": "Format @label löschen",
     "Delete its terms first, then delete the empty vocabulary.": "Löschen Sie zuerst die Begriffe, dann das leere Vokabular.",
     "Delete link \"@title\"?": "Link \"@title\" löschen?",
-    "Delete logo (the block will no longer be displayed)": "Logo löschen (der Block wird nicht mehr angezeigt)",
     "Delete menu \"@menu\"?": "Menü \"@menu\" löschen?",
     "Delete menu \"@name\"": "Menü \"@name\" löschen",
     "Delete menu @name - Admin panel": "Menü @name löschen - Adminbereich",
@@ -1199,6 +1203,7 @@
     "Delete the content": "Inhalt löschen",
     "Delete the entire view \"@label\"?": "Die gesamte Ansicht \"@label\" löschen?",
     "Delete the icon (the theme's will be shown)": "Icon löschen (das des Themes wird angezeigt)",
+    "Delete the logo (the theme's will be shown, if it has one)": "Logo löschen (das des Themes wird angezeigt, falls es eines hat)",
     "Delete the module's content first.": "Löschen Sie zuerst die Inhalte des Moduls.",
     "Delete the pattern?": "Muster löschen?",
     "Delete the redirect?": "Weiterleitung löschen?",
@@ -1800,6 +1805,7 @@
     "More details: <code>@file</code>.": "Weitere Details: <code>@file</code>.",
     "Most blocks": "Maximale Anzahl an Blöcken",
     "Most dates": "Maximale Anzahl an Daten",
+    "Most files": "Maximale Anzahl an Dateien",
     "Most images": "Maximale Anzahl an Bildern",
     "Most links": "Maximale Anzahl an Links",
     "Most people": "Maximale Anzahl an Benutzern",
@@ -2312,7 +2318,7 @@
     "Showing the first @shown.": "Es werden die ersten @shown angezeigt.",
     "Shown": "Angezeigt",
     "Shown after the date when the value has a time.": "Wird nach dem Datum angezeigt, wenn der Wert eine Uhrzeit hat.",
-    "Shown by the \"Logo\" block in the site header (<a href=\":url\">Blocks and regions</a>). If no logo is set, the block is not displayed.": "Wird vom Block \"Logo\" im Website-Header angezeigt (<a href=\":url\">Blöcke und Regionen</a>). Ist kein Logo festgelegt, wird der Block nicht angezeigt.",
+    "Shown in the site header by the theme or by the \"Logo\" block (<a href=\":url\">Blocks and regions</a>), the same in every theme. Without one, the active theme's logo is shown, if it has one.": "Wird im Website-Header vom Theme oder vom Block \"Logo\" angezeigt (<a href=\":url\">Blöcke und Regionen</a>), in jedem Theme dasselbe. Ohne eigenes wird das Logo des aktiven Themes angezeigt, falls es eines hat.",
     "Shown on the card/detail page if the node has no value of its own for this field.": "Wird auf der Karte/Detailseite angezeigt, wenn der Inhalt für dieses Feld keinen eigenen Wert hat.",
     "Shown to a visitor until they choose; a menu link to <code>#cookie-settings</code> opens it again.": "Wird einem Besucher angezeigt, bis er eine Wahl trifft; ein Menülink auf <code>#cookie-settings</code> öffnet es erneut.",
     "Shows": "Zeigt",
@@ -2477,6 +2483,7 @@
     "The account is awaiting administrator approval": "Das Konto wartet auf die Freigabe durch einen Administrator",
     "The accounts and everything these users created will be permanently deleted: content of all types (with its comments and everything attached to it), their comments, private messages, uploaded files and avatars. Site settings (content types, Views, vocabularies) are not affected.": "Die Konten und alles, was diese Benutzer erstellt haben, werden dauerhaft gelöscht: Inhalte aller Typen (mit ihren Kommentaren und allem, was daran hängt), ihre Kommentare, privaten Nachrichten, hochgeladenen Dateien und Avatare. Die Website-Einstellungen (Inhaltstypen, Ansichten, Vokabulare) sind nicht betroffen.",
     "The action could not be completed.": "Die Aktion konnte nicht abgeschlossen werden.",
+    "The active theme's logo; one uploaded here replaces it.": "Das Logo des aktiven Themes; ein hier hochgeladenes ersetzt es.",
     "The address is made by a script in the browser; without it - \"info [at] example.com\".": "Die Adresse wird von einem Skript im Browser erzeugt; ohne es - \"info [at] example.com\".",
     "The address must be allowed by the sending service (an address the SMTP server accepts, or a domain the service has verified).": "Die Adresse muss vom Versanddienst zugelassen sein (eine Adresse, die der SMTP-Server akzeptiert, oder eine vom Dienst verifizierte Domain).",
     "The address of each type's content generated automatically. Empty - @default.": "Die automatisch erzeugte Adresse des Inhalts jedes Typs. Leer - @default.",
@@ -2617,7 +2624,7 @@
     "The preview takes a POST request.": "Die Vorschau erwartet eine POST-Anfrage.",
     "The privacy policy: a path on the site or an address. Empty - no link.": "Die Datenschutzerklärung: ein Pfad auf der Website oder eine Adresse. Leer - kein Link.",
     "The published content viewed most, the most viewed first.": "Die am häufigsten angesehenen veröffentlichten Inhalte, die meistgesehenen zuerst.",
-    "The publisher of the articles' markup and the site's card in the results (the front page's JSON-LD). The logo above is its logo.": "Der Herausgeber im Markup der Artikel und die Karte der Website in den Suchergebnissen (das JSON-LD der Startseite). Das Logo oben ist sein Logo.",
+    "The publisher of the articles' markup and the site's card in the results (the front page's JSON-LD). The logo uploaded above is its logo (not a theme's).": "Der Herausgeber im Markup der Artikel und die Karte der Website in den Suchergebnissen (das JSON-LD der Startseite). Sein Logo ist das oben hochgeladene (nicht das eines Themes).",
     "The rebuild stopped on an error; the addresses changed so far keep their redirects. Continue, or see the log.": "Die Neuerstellung wurde wegen eines Fehlers angehalten; die bisher geänderten Adressen behalten ihre Weiterleitungen. Setzen Sie sie fort oder sehen Sie im Protokoll nach.",
     "The request could not be read.": "Die Anfrage konnte nicht gelesen werden.",
     "The request is too large": "Die Anfrage ist zu groß",
