@@ -21,11 +21,12 @@ concurrency:
 
 env:
   APP: github.com/kosatka-cms/kosatka/cmd/app@main
-  # The engine's main straight from GitHub: the module proxy keeps
-  # answering @main with an older commit for a while, whose strings lack
-  # the newest ones - the build would leave their translations out as
-  # stale.
-  GOPROXY: direct
+  # The engine's main straight from GitHub (its other modules through the
+  # proxy, as some of their hosts don't answer the runners): the module
+  # proxy keeps answering @main with an older commit for a while, whose
+  # strings lack the newest ones - the build would leave their
+  # translations out as stale.
+  GOPRIVATE: github.com/kosatka-cms/kosatka
 
 jobs:
   check:
