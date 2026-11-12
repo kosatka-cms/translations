@@ -1,7 +1,7 @@
 {
   "contexts": {
     "feed": {
-      "Content type": "Тип контента",
+      "Content type": "Тип материала",
       "Image style": "Стиль картинок",
       "disabled": "выключена",
       "enabled": "включена"
@@ -34,10 +34,10 @@
     "Open feed": "Открыть ленту",
     "Path": "Адрес",
     "Published content of the selected types, not in moderation, newest first. For each type choose where to take the text, cover and category from.": "Опубликованные материалы выбранных типов, не на модерации, свежие сначала. Для каждого типа выберите, откуда брать текст, обложку и рубрику.",
-    "Select at least one content type.": "Выберите хотя бы один тип контента.",
+    "Select at least one content type.": "Выберите хотя бы один тип материала.",
     "The feed could not be deleted.": "Не удалось удалить ленту.",
     "The path may contain Latin letters, digits, \"-\", \"_\", \".\", \"/\", for example <code>feeds/dzen.xml</code>.": "Адрес - латиница, цифры, \"-\", \"_\", \".\", \"/\", например <code>feeds/dzen.xml</code>.",
-    "The selected field does not fit this content type.": "Выбранное поле не подходит этому типу контента.",
+    "The selected field does not fit this content type.": "Выбранное поле не подходит этому типу материала.",
     "This address is already used on the site: by the engine, content, a View page, a term page or another feed.": "Этот адрес на сайте уже занят: движком, материалом, страницей представления, страницей термина или другой лентой.",
     "Types": "Типы",
     "XML content feeds for aggregators: Dzen (full text), RSS readers. Each feed has its own path, set of content and field mapping.": "XML-ленты материалов для агрегаторов: Дзен (полный текст), RSS-читатели. У каждой ленты свой адрес, набор материалов и сопоставление полей.",
