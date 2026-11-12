@@ -2731,6 +2731,7 @@
     "The site address must be like https://www.example.com - a scheme and a host, without a path; the settings were not saved.": "Адрес сайта должен быть вида https://www.example.com - схема и домен, без пути; настройки не сохранены.",
     "The site can't write files there: @error": "Сайт не может записывать туда файлы: @error",
     "The site has no such string.": "На сайте нет такой строки.",
+    "The site is temporarily unavailable. Please try again in a few minutes.": "Сайт временно недоступен. Попробуйте зайти через несколько минут.",
     "The site is under maintenance.": "Сайт на техническом обслуживании.",
     "The site sends email for account confirmation, password reset, account notifications and error reports. Without email these don't work.": "Сайт отправляет письма для подтверждения email, восстановления пароля, уведомлений об учётной записи и сообщений об ошибках. Без почты всё это не работает.",
     "The site sends no e-mail: registration confirmations and password resets don't arrive. Set it up on the <a href=\":url\">Mail</a> page.": "Сайт не отправляет писем: подтверждения регистрации и сброс пароля не приходят. Настройте отправку на странице <a href=\":url\">Почта</a>.",

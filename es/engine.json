@@ -2645,6 +2645,7 @@
     "The site address must be like https://www.example.com - a scheme and a host, without a path; the settings were not saved.": "La dirección del sitio debe ser como https://www.example.com - un esquema y un host, sin ruta; no se guardaron los ajustes.",
     "The site can't write files there: @error": "El sitio no puede escribir archivos allí: @error",
     "The site has no such string.": "El sitio no tiene esa cadena.",
+    "The site is temporarily unavailable. Please try again in a few minutes.": "El sitio no está disponible temporalmente. Inténtelo de nuevo en unos minutos.",
     "The site is under maintenance.": "El sitio está en mantenimiento.",
     "The site sends email for account confirmation, password reset, account notifications and error reports. Without email these don't work.": "El sitio envía correos para la confirmación de cuentas, el restablecimiento de contraseñas, las notificaciones de cuenta y los informes de errores. Sin correo no funcionan.",
     "The site sends no e-mail: registration confirmations and password resets don't arrive. Set it up on the <a href=\":url\">Mail</a> page.": "El sitio no envía correos: las confirmaciones de registro y los restablecimientos de contraseña no llegan. Configúrelo en la página <a href=\":url\">Correo</a>.",
